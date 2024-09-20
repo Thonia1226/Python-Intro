@@ -1,0 +1,10 @@
+a= 89
+b= 109
+c= 209
+f= a+b+c
+print (f)
+z= f-59
+print (z)
+g= z*3
+h= g/5
+print (h)
